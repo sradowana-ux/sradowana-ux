@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Radowana 👋</h1>
 
 <p align="center">
-  ML &amp; Data Science  @ Hull | Building multimodal AI + LLM tools
+  AI &amp; Data Science  @ Hull | Building multimodal AI + LLM tools
 </p>
 
 <p align="center">
