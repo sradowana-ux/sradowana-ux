@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Radowana 👋</h1>
+<h1 align="center">Radowana S.</h1>
 
 <p align="center">
   AI &amp; Data Science graduate, University of Hull — I build multimodal ML systems and LLM tools.<br/>
@@ -13,18 +13,18 @@
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
 | Project | What it does | Results | Stack |
 |---------|--------------|---------|-------|
-| 📚 [PaperScout](https://github.com/sradowana-ux/paper-scout) | Research Q&A with hybrid retrieval (BM25 + dense), RRF fusion, and citation-grounded answers | Evaluated with Hit@3 / MRR | ChromaDB, FastEmbed, BM25, Groq |
-| 🌡️ [Thermal Fall Detection](https://github.com/sradowana-ux/thermal-fall-detection-pytorch) | Fall detection from low-res thermal video — CNN-GRU vs 3D-CNN vs motion-aware models, with McNemar significance testing | Test F1 = 0.975 | Python, PyTorch, Computer Vision |
-| 🎧 [Moodwave](https://github.com/sradowana-ux/moodwave) | Multimodal emotion recognition — RoBERTa (text) + Wav2Vec2 (speech) with late fusion | F1 = 0.850 | PyTorch, Transformers, Gradio |
-| 🎵 [TikTok Creator PA](https://github.com/sradowana-ux/tiktok-creator-pa) | LLM assistant for creators — captions, hooks, hashtags, trend analysis | 10-tool Gradio app | Groq Llama 3.3, Gradio, pytrends |
+| [PaperScout](https://github.com/sradowana-ux/paper-scout) | Research Q&A with hybrid retrieval (BM25 + dense), RRF fusion, and citation-grounded answers | Evaluated with Hit@3 / MRR | ChromaDB, FastEmbed, BM25, Groq |
+| [Thermal Fall Detection](https://github.com/sradowana-ux/thermal-fall-detection-pytorch) | Fall detection from low-res thermal video — CNN-GRU vs 3D-CNN vs motion-aware models, with McNemar significance testing | Test F1 = 0.975 | Python, PyTorch, Computer Vision |
+| [Moodwave](https://github.com/sradowana-ux/moodwave) | Multimodal emotion recognition — RoBERTa (text) + Wav2Vec2 (speech) with late fusion | F1 = 0.850 | PyTorch, Transformers, Gradio |
+| [TikTok Creator PA](https://github.com/sradowana-ux/tiktok-creator-pa) | LLM assistant for creators — captions, hooks, hashtags, trend analysis | 10-tool Gradio app | Groq Llama 3.3, Gradio, pytrends |
 
 ---
 
-## 🛠 Skills
+## Skills
 
 **Machine Learning** — PyTorch · TensorFlow · Hugging Face · scikit-learn · RAG · NLP · Computer Vision
 **Data Engineering** — Python · SQL · Spark · Databricks · Docker · AWS · Git · Bash
@@ -32,11 +32,10 @@
 
 ---
 
-## 🗺 Current Quest Log
+## Currently Building
 
-- ✅ Ship a production-grade RAG system — PaperScout
-- 🔨 Power BI analytics dashboard — in progress
-- 📋 Databricks lakehouse pipeline — queued
+- Power BI analytics dashboard — in progress
+- Databricks lakehouse pipeline — next up
 
 ---
 
