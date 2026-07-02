@@ -12,6 +12,14 @@ AI & Data Science graduate, University of Hull &nbsp;◈&nbsp; Building multimod
 [![Email](https://img.shields.io/badge/✉_Email-b25049?style=flat-square&labelColor=0d1117)](mailto:sradowana@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/in_LinkedIn-58a6ff?style=flat-square&labelColor=0d1117)](https://linkedin.com/in/sradowana-ux)
 
+<br/><br/>
+
+<a href="mailto:sradowana@gmail.com">
+<img src="assets/match-ready.svg" alt="Your hire is ready — ACCEPT" width="640"/>
+</a>
+
+*↑ click accept — recruiters get 2ms ping to my inbox*
+
 </div>
 
 <br/>
