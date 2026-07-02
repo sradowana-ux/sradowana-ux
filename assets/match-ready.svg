@@ -9,25 +9,25 @@
       <stop offset="100%" stop-color="#171d22"/>
     </linearGradient>
     <linearGradient id="accept" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#84c46c"/>
-      <stop offset="45%" stop-color="#5aa64a"/>
-      <stop offset="100%" stop-color="#3c7c33"/>
+      <stop offset="0%" stop-color="#4ecb97"/>
+      <stop offset="45%" stop-color="#2ba474"/>
+      <stop offset="100%" stop-color="#1a7a54"/>
     </linearGradient>
     <linearGradient id="btnwell" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#101408"/>
-      <stop offset="100%" stop-color="#151a0e"/>
+      <stop offset="0%" stop-color="#061a12"/>
+      <stop offset="100%" stop-color="#0a2419"/>
     </linearGradient>
     <linearGradient id="quality" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="#3a3325"/>
       <stop offset="100%" stop-color="#2c2820"/>
     </linearGradient>
     <radialGradient id="glowL" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0%" stop-color="#3f7a2e" stop-opacity="0.55"/>
-      <stop offset="100%" stop-color="#3f7a2e" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#1d8a63" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#1d8a63" stop-opacity="0"/>
     </radialGradient>
     <radialGradient id="glowR" cx="0.5" cy="0.5" r="0.5">
-      <stop offset="0%" stop-color="#2f6d3a" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#2f6d3a" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#2ea87a" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#2ea87a" stop-opacity="0"/>
     </radialGradient>
     <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
       <feGaussianBlur stdDeviation="10"/>
@@ -35,7 +35,7 @@
   </defs>
 
   <!-- full-bleed dark green background with ambient glows -->
-  <rect width="640" height="380" fill="#0a0e09"/>
+  <rect width="640" height="380" fill="#04120d"/>
   <ellipse cx="120" cy="120" rx="380" ry="240" fill="url(#glowL)">
     <animate attributeName="opacity" values="0.8;1;0.8" dur="6s" repeatCount="indefinite"/>
   </ellipse>
@@ -61,10 +61,10 @@
   <line x1="72" y1="164" x2="568" y2="164" stroke="#3a424b" stroke-width="1" opacity="0.4"/>
 
   <!-- accept button: soft emerald glow behind -->
-  <rect x="180" y="100" width="280" height="56" rx="3" fill="#6fbf5c" filter="url(#soft)" opacity="0.55">
+  <rect x="180" y="100" width="280" height="56" rx="3" fill="#3fc08e" filter="url(#soft)" opacity="0.55">
     <animate attributeName="opacity" values="0.35;0.65;0.35" dur="2.6s" repeatCount="indefinite"/>
   </rect>
-  <rect x="184" y="103" width="272" height="50" rx="3" fill="url(#accept)" stroke="#2b5c24" stroke-width="1.5"/>
+  <rect x="184" y="103" width="272" height="50" rx="3" fill="url(#accept)" stroke="#155c40" stroke-width="1.5"/>
   <rect x="186" y="105" width="268" height="22" rx="2" fill="#ffffff" opacity="0.16"/>
   <text x="320" y="136" font-family="Verdana, Geneva, sans-serif" font-size="19" font-weight="bold"
         letter-spacing="4" fill="#f2f8ec" text-anchor="middle">ACCEPT</text>
@@ -72,7 +72,7 @@
   <!-- match quality strip -->
   <rect x="100" y="178" width="440" height="30" fill="url(#quality)" rx="2"/>
   <text x="320" y="198" font-family="Verdana, Geneva, sans-serif" font-size="12" text-anchor="middle">
-    <tspan fill="#b8b2a4">Overall match quality is: </tspan><tspan fill="#8cc45f" font-weight="bold">Excellent</tspan>
+    <tspan fill="#b8b2a4">Overall match quality is: </tspan><tspan fill="#3fc08e" font-weight="bold">Excellent</tspan>
   </text>
   <text x="320" y="222" font-family="Verdana, Geneva, sans-serif" font-size="10.5" text-anchor="middle">
     <tspan fill="#8b949e">Skill Balance: </tspan><tspan fill="#c8aa6e">Perfect</tspan>
@@ -89,7 +89,7 @@
 
     <text x="320" y="256" font-size="10" letter-spacing="2" fill="#c8aa6e">SKILL RANGE</text>
     <text x="320" y="278" font-size="11" fill="#e6edf3">ML · RAG · BI · SQL</text>
-    <text x="320" y="296" font-size="9.5" fill="#8cc45f">Trend: Climbing</text>
+    <text x="320" y="296" font-size="9.5" fill="#3fc08e">Trend: Climbing</text>
 
     <text x="467" y="256" font-size="10" letter-spacing="2" fill="#c8aa6e">BEHAVIOR</text>
     <text x="467" y="278" font-size="11" fill="#e6edf3">Ships projects: Yes</text>
