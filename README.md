@@ -6,7 +6,7 @@
 
 **Intelligence hero** · Ranged · Pierces spell immunity *(and messy datasets)*
 
-ML & Data Science @ Hull &nbsp;◈&nbsp; Building multimodal AI + LLM tools &nbsp;◈&nbsp; **Open to data/ML internships** 🎯
+AI & Data Science graduate, University of Hull &nbsp;◈&nbsp; Building multimodal AI + LLM tools &nbsp;◈&nbsp; **Open to entry-level data/ML roles & internships** 🎯
 
 [![Portfolio](https://img.shields.io/badge/⌂_Portfolio-c8aa6e?style=flat-square&labelColor=0d1117)](https://sradowana-ux.github.io)
 [![Email](https://img.shields.io/badge/✉_Email-b25049?style=flat-square&labelColor=0d1117)](mailto:sradowana@gmail.com)
