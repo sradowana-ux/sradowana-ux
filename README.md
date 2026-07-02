@@ -29,8 +29,8 @@ AI & Data Science graduate, University of Hull — building multimodal AI + LLM 
 
 <img src="assets/hdr-match-history.svg" alt="Match history" width="640"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sradowana-ux&show_icons=true&bg_color=0a1f19&title_color=c8aa6e&text_color=c9d1d9&icon_color=2ea87a&border_color=03110b" height="160" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sradowana-ux&layout=compact&bg_color=0a1f19&title_color=c8aa6e&text_color=c9d1d9&border_color=03110b" height="160" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sradowana-ux&show_icons=true&bg_color=161b20&title_color=c8aa6e&text_color=c9d1d9&icon_color=6fae4a&border_color=0d1013" height="160" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sradowana-ux&layout=compact&bg_color=161b20&title_color=c8aa6e&text_color=c9d1d9&border_color=0d1013" height="160" alt="Top languages"/>
 
 <br/><br/>
 
