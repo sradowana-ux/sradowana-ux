@@ -1,12 +1,15 @@
 <div align="center">
 
+# Radowana Binta Shaamim
+### MSc Artificial Intelligence & Data Science (Distinction) — University of Hull
+
+Building production-ready AI systems with Python, SQL, multimodal ML, computer vision, RAG & LLMs — **open to entry-level data/ML roles & internships**
+
 <a href="mailto:sradowana@gmail.com">
 <img src="assets/match-ready.svg" alt="Your hire is ready — ACCEPT" width="640"/>
 </a>
 
-**Intelligence hero** · Ranged · Pierces spell immunity *(and messy datasets)*
-
-AI & Data Science graduate, University of Hull — building multimodal AI + LLM tools — **open to entry-level data/ML roles & internships**
+**Intelligence hero** · Ranged
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-c8aa6e?style=flat-square&labelColor=0d1117)](https://sradowana-ux.github.io)
 [![Email](https://img.shields.io/badge/EMAIL-b25049?style=flat-square&labelColor=0d1117)](mailto:sradowana@gmail.com)
